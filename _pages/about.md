@@ -6,7 +6,7 @@ subtitle: <a href='https://shxy.sut.edu.cn/info/1166/2591.htm'>沈阳工业大�
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zheng1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>18944603938</p>
