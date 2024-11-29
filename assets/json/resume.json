@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "郑荣荣",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zhengrongrong2006@126.com",
+    "phone": "+86 18944603938",
+    "url": "https://a251231.github.io/al-folio/",
+    "summary": "1985年，副教授，硕导，博士后（大连理工大学流动站，中石油辽化公司工作站）",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "宏伟区光华路30号",
+      "postalCode": "111003",
+      "city": "辽阳",
+      "countryCode": "中国",
+      "region": "辽宁"
     },
     "profiles": [
       {
