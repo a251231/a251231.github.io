@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 郑荣荣课题组 # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Polymer and Energy Research Group
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -160,7 +160,7 @@ giscus:
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
-  lang: en
+  lang: cn
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
