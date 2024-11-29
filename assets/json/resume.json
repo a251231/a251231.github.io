@@ -1,13 +1,13 @@
 {
-  "basics": {
-    "name": "郑荣荣",
+  "基本信息": {
+    "姓名": "郑荣荣",
     "label": "Scientist",
     "image": "",
-    "email": "zhengrongrong2006@126.com",
-    "phone": "+86 18944603938",
+    "邮箱": "zhengrongrong2006@126.com",
+    "手机": "+86 18944603938",
     "url": "https://a251231.github.io",
-    "summary": "1985年，副教授，硕导，博士后（大连理工大学流动站，中石油辽化公司工作站）",
-    "location": {
+    "概括": "1985年，副教授，硕导，博士后（大连理工大学流动站，中石油辽化公司工作站）",
+    "位置": {
       "address": "宏伟区光华路30号",
       "postalCode": "111003",
       "city": "辽阳",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "工作": [
     {
       "name": "沈阳工业大学",
       "position": "副教授",
@@ -33,32 +33,19 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
+  
+  "教育": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "institution": "大连理工大学流动站，中石油辽化公司工作站",
+      "location": "辽宁, 辽阳",
+      "url": "*",
+      "area": "高分子",
+      "studyType": "博士后",
+      "startDate": "2020-01-01",
+      "endDate": "2024-01-01",
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+  "项目": [
     {
       "title": "吲哚并咔唑基聚合物半导体的绿色合成及其性能研究",
       "date": "2022-01-01",
