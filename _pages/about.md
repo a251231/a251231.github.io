@@ -2,7 +2,7 @@
 layout: about
 title: 关于
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://shxy.sut.edu.cn/info/1166/2591.htm'>沈阳工业大学</a>. 辽宁省辽阳市宏伟区光华路30号
 
 profile:
   align: right
