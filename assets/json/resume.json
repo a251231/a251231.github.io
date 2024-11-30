@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "大连理工大学流动站，中石油辽化公司工作站",
+      "location": "辽宁",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "studyType": "博士后",
+      "startDate": "2000-01-01",
+      "endDate": "2024-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["高分子材料研究"]
     }
   ],
   "awards": [
@@ -113,11 +113,11 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Novel polyimides containing flexible carbazole blocks with electrochromic and electrofluorescencechromic properties",
+      "publisher": "RSC advances",
+      "releaseDate": "2020",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2020/ra/c9ra10515h",
+      "summary": "In addition, the series of PIs exhibit excellent electrofluorescencechromic (EFC) properties. Therefore, the novel materials will contribute to the application of EC or EFC displays in the future."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
