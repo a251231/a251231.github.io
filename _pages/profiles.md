@@ -14,9 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>18944603938</p>
+      <p>辽宁省辽阳市</p>
+      <p>宏伟区光华路30号</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
