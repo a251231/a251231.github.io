@@ -9,9 +9,9 @@ profile:
   image: zheng1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>18944603938</p>
-    <p>宏伟区光华路30号</p>
-    <p>辽宁省辽阳市</p>
+      <p>18944603938</p>
+      <p>辽宁省辽阳市</p>
+      <p>宏伟区光华路30号</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
