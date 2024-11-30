@@ -19,7 +19,7 @@ profiles:
       <p>宏伟区光华路30号</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: maqiwen.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
