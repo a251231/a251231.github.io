@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: zheng1.jpg
-    content: about_einstein.md
+    content: zheng.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>18944603938</p>
