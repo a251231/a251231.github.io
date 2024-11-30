@@ -29,8 +29,8 @@
       "url": "https://shxy.sut.edu.cn/info/1166/2591.htm",
       "startDate": "2018-01-01",
       "endDate": "至今",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "主要从事有机光电材料与器件的制备，其中包括电致变色、电致荧光、有机太阳能电池等；同时，还进行水性功能涂料的性能研究及应用，其中包括隔热、保温、导热、防腐等。",
+      "highlights": ["有机化学","高分子材料"]
     }
   ],
   "volunteer": [
@@ -50,7 +50,7 @@
       "institution": "大连理工大学流动站，中石油辽化公司工作站",
       "location": "辽宁",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "有机光电材料",
       "studyType": "博士后",
       "startDate": "2000-01-01",
       "endDate": "2024-01-01",
@@ -189,12 +189,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "吲哚并咔唑基聚合物半导体的绿色合成及其性能研究",
+      "summary": "吲哚并咔唑基聚合物半导体",
+      "highlights": ["国家自然"],
+      "startDate": "2022-01-01",
+      "endDate": "至今",
+      "url": "https://www.nsfc.gov.cn/"
     }
   ]
 }
